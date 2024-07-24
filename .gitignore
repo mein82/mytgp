@@ -1,6 +1,11 @@
 /node_modules
 /public/hot
 /public/storage
+/public/attachment
+/public/graph
+/public/photo
+/public/radar
+/public/twer
 /storage/*.key
 /vendor
 .env
